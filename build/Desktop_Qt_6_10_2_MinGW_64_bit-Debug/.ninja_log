@@ -1,0 +1,9 @@
+# ninja log v7
+4	500	7935011568345013	Qt-Calculator-GUI_autogen/timestamp	d9207e3b1566e9ec
+4	500	7935011568345013	Qt-Calculator-GUI_autogen/mocs_compilation.cpp	d9207e3b1566e9ec
+4	500	7935011568345013	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/Qt-Calculator-GUI_autogen/timestamp	d9207e3b1566e9ec
+4	500	7935011568345013	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/Qt-Calculator-GUI_autogen/mocs_compilation.cpp	d9207e3b1566e9ec
+513	1880	7935011569012931	CMakeFiles/Qt-Calculator-GUI.dir/Qt-Calculator-GUI_autogen/mocs_compilation.cpp.obj	7f74ab92b8eae715
+521	1926	7935011569092963	CMakeFiles/Qt-Calculator-GUI.dir/src/main.cpp.obj	5aefaea2b2ac3772
+528	1965	7935011569173728	CMakeFiles/Qt-Calculator-GUI.dir/src/mainwindow.cpp.obj	c28f3839b122f8ae
+1965	2604	7935011583541360	Qt-Calculator-GUI.exe	9722b22319d87d08
