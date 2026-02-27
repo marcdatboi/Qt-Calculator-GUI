@@ -3,6 +3,7 @@
 
 
 #include "mainwindow.h"
+//#include "uimainwindow.h"
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent) {

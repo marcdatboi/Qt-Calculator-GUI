@@ -15,10 +15,11 @@ set(CMAKE_AUTORCC ON)
 set(SOURCES
     src/main.cpp
     src/mainwindow.cpp
+    mainwindow.ui
 )
 
 set(CMAKE_PREFIX_PATH "C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64")
-find_package(Qt6 REQUIRED COMPONENTS Widgets)
+find_package(Qt6 REQUIRED COMPONENTS Widgets Gui Core)
 
 qt_add_executable(qt_calculator_gui
     ${SOURCES}
@@ -26,5 +27,9 @@ qt_add_executable(qt_calculator_gui
 )
 
 target_include_directories(qt_calculator_gui PRIVATE ${CMAKE_SOURCE_DIR}/include)
-target_link_libraries(qt_calculator_gui PRIVATE Qt6::Widgets)
+target_link_libraries(qt_calculator_gui PRIVATE
+    Qt6::Widgets
+    Qt6::Gui
+    Qt6::Core
+)
 

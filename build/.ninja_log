@@ -1,13 +1,9 @@
 # ninja log v7
-427	1760	7938610064317987	CMakeFiles/qt_calculator_gui.dir/src/main.cpp.obj	ad430b8d4a70d6dd
-430	1784	7938610064347950	CMakeFiles/qt_calculator_gui.dir/src/mainwindow.cpp.obj	92eaa8b65ab37d53
-10	424	7938610063957943	qt_calculator_gui_autogen/timestamp	40d4e5618c33b364
-10	424	7938610063957943	qt_calculator_gui_autogen/mocs_compilation.cpp	40d4e5618c33b364
-10	424	7938610063957943	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/qt_calculator_gui_autogen/timestamp	40d4e5618c33b364
-10	424	7938610063957943	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/qt_calculator_gui_autogen/mocs_compilation.cpp	40d4e5618c33b364
-425	1745	7938610064297941	CMakeFiles/qt_calculator_gui.dir/qt_calculator_gui_autogen/mocs_compilation.cpp.obj	445e842643dbbdcc
-1784	1885	7938610077888461	qt_calculator_gui.exe	78b0760ed0c7434a
-9	115	7938616097713878	qt_calculator_gui_autogen/timestamp	40d4e5618c33b364
-9	115	7938616097713878	qt_calculator_gui_autogen/mocs_compilation.cpp	40d4e5618c33b364
-9	115	7938616097713878	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/qt_calculator_gui_autogen/timestamp	40d4e5618c33b364
-9	115	7938616097713878	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/qt_calculator_gui_autogen/mocs_compilation.cpp	40d4e5618c33b364
+6	452	7938659726823546	qt_calculator_gui_autogen/timestamp	c9b4b26a01ad8de9
+6	452	7938659726823546	qt_calculator_gui_autogen/mocs_compilation.cpp	c9b4b26a01ad8de9
+6	452	7938659726823546	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/qt_calculator_gui_autogen/timestamp	c9b4b26a01ad8de9
+6	452	7938659726823546	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/qt_calculator_gui_autogen/mocs_compilation.cpp	c9b4b26a01ad8de9
+460	1567	7938659727299926	CMakeFiles/qt_calculator_gui.dir/qt_calculator_gui_autogen/mocs_compilation.cpp.obj	8bce8ecbfecb6cb8
+463	1578	7938659727319939	CMakeFiles/qt_calculator_gui.dir/src/main.cpp.obj	ba505f2d258be129
+465	1580	7938659727349934	CMakeFiles/qt_calculator_gui.dir/src/mainwindow.cpp.obj	1738d78b26278112
+1580	1677	7938659738490217	qt_calculator_gui.exe	6638eb74e3d203be
