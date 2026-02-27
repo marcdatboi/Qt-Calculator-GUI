@@ -1,0 +1,12 @@
+<widget class="QMainWindow" name="MainWindow">
+    <property name="windowTitle">
+        <string>My App</string>
+    </property>
+    <widget class="QWidget" name="centralwidget">
+        <widget class="QPushButton" name="myButton">
+            <property name="text">
+                <string>Click Me!</string>
+            </property>
+        </widget>
+    </widget>
+</widget>

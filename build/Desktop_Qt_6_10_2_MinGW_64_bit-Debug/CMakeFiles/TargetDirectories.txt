@@ -1,9 +1,0 @@
-C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/Qt-Calculator-GUI.dir
-C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
-C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
-C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/Qt-Calculator-GUI_autogen_timestamp_deps.dir
-C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/Qt-Calculator-GUI_autogen.dir

@@ -1,0 +1,5 @@
+C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/qt_calculator_gui.dir
+C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/edit_cache.dir
+C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/rebuild_cache.dir
+C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/qt_calculator_gui_autogen_timestamp_deps.dir
+C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/qt_calculator_gui_autogen.dir
