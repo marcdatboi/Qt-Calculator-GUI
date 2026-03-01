@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/DevFolder/C++/projects/Qt-Calculator-GUI/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/DevFolder/C++/projects/Qt-Calculator-GUI/build/qt_calculator_gui_autogen/include -IC:/DevFolder/C++/projects/Qt-Calculator-GUI/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\qt_calculator_gui.dir\\qt_calculator_gui_autogen\\mocs_compilation.cpp.obj -c C:\\DevFolder\\C++\\projects\\Qt-Calculator-GUI\\build\\qt_calculator_gui_autogen\\mocs_compilation.cpp",
+  "file": "C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/qt_calculator_gui_autogen/mocs_compilation.cpp",
+  "output": "C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/qt_calculator_gui.dir/qt_calculator_gui_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/DevFolder/C++/projects/Qt-Calculator-GUI/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/DevFolder/C++/projects/Qt-Calculator-GUI/build/qt_calculator_gui_autogen/include -IC:/DevFolder/C++/projects/Qt-Calculator-GUI/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\qt_calculator_gui.dir\\src\\main.cpp.obj -c C:\\DevFolder\\C++\\projects\\Qt-Calculator-GUI\\src\\main.cpp",
+  "file": "C:/DevFolder/C++/projects/Qt-Calculator-GUI/src/main.cpp",
+  "output": "C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/qt_calculator_gui.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/DevFolder/C++/projects/Qt-Calculator-GUI/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/DevFolder/C++/projects/Qt-Calculator-GUI/build/qt_calculator_gui_autogen/include -IC:/DevFolder/C++/projects/Qt-Calculator-GUI/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\qt_calculator_gui.dir\\src\\mainwindow.cpp.obj -c C:\\DevFolder\\C++\\projects\\Qt-Calculator-GUI\\src\\mainwindow.cpp",
+  "file": "C:/DevFolder/C++/projects/Qt-Calculator-GUI/src/mainwindow.cpp",
+  "output": "C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/qt_calculator_gui.dir/src/mainwindow.cpp.obj"
+},
+{
+  "directory": "C:/DevFolder/C++/projects/Qt-Calculator-GUI/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/DevFolder/C++/projects/Qt-Calculator-GUI/build/qt_calculator_gui_autogen/include -IC:/DevFolder/C++/projects/Qt-Calculator-GUI/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\qt_calculator_gui.dir\\src\\NumberBarWidget.cpp.obj -c C:\\DevFolder\\C++\\projects\\Qt-Calculator-GUI\\src\\NumberBarWidget.cpp",
+  "file": "C:/DevFolder/C++/projects/Qt-Calculator-GUI/src/NumberBarWidget.cpp",
+  "output": "C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/qt_calculator_gui.dir/src/NumberBarWidget.cpp.obj"
+}
+]

@@ -14,12 +14,6 @@ class MainWindow : public QMainWindow {
     public:
         MainWindow(QWidget *parent = nullptr);
         ~MainWindow();
-
-    private slots:
-        void handleButtonClick();
-    
-    private:
-        QPushButton *myButton;
 };
 
 #endif // MAINWINDOW_H

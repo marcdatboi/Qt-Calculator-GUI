@@ -1,12 +1,16 @@
 qt_calculator_gui_autogen/timestamp: \
 	C:/DevFolder/C++/projects/Qt-Calculator-GUI/CMakeLists.txt \
-	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/4.2.1/CMakeCXXCompiler.cmake \
-	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/4.2.1/CMakeRCCompiler.cmake \
-	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/4.2.1/CMakeSystem.cmake \
+	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/4.1.0/CMakeCXXCompiler.cmake \
+	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/4.1.0/CMakeRCCompiler.cmake \
+	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/4.1.0/CMakeSystem.cmake \
 	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/qt_calculator_gui_autogen/moc_predefs.h \
+	C:/DevFolder/C++/projects/Qt-Calculator-GUI/include/NumberBarWidget.hpp \
 	C:/DevFolder/C++/projects/Qt-Calculator-GUI/include/mainwindow.h \
+	C:/DevFolder/C++/projects/Qt-Calculator-GUI/src/NumberBarWidget.cpp \
 	C:/DevFolder/C++/projects/Qt-Calculator-GUI/src/main.cpp \
 	C:/DevFolder/C++/projects/Qt-Calculator-GUI/src/mainwindow.cpp \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/QDebug \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/QList \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/q17memory.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/q20functional.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/q20iterator.h \
@@ -15,6 +19,7 @@ qt_calculator_gui_autogen/timestamp: \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/q20utility.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/q23type_traits.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/q23utility.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qabstracteventdispatcher.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qalgorithms.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qalloc.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qanystringview.h \
@@ -25,6 +30,7 @@ qt_calculator_gui_autogen/timestamp: \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qatomic.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qatomic_cxx11.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qbasicatomic.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qbasictimer.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qbindingstorage.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qbytearray.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qbytearrayalgorithms.h \
@@ -42,10 +48,15 @@ qt_calculator_gui_autogen/timestamp: \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qcontainerinfo.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qcontainertools_impl.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qcontiguouscache.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qcoreapplication.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qcoreapplication_platform.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qcoreevent.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qdarwinhelpers.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qdatastream.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qdeadlinetimer.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qdebug.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qendian.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qeventloop.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qexceptionhandling.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qflags.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qfloat16.h \
@@ -63,6 +74,7 @@ qt_calculator_gui_autogen/timestamp: \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qlatin1stringview.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qline.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qlist.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qlocale.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qlogging.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qmalloc.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qmap.h \
@@ -72,6 +84,7 @@ qt_calculator_gui_autogen/timestamp: \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qmetatype.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qminmax.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qnamespace.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qnativeinterface.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qnumeric.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qobject.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qobject_impl.h \
@@ -128,6 +141,7 @@ qt_calculator_gui_autogen/timestamp: \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qtversionchecks.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qtypeinfo.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qtypes.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qurl.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qutf8stringview.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qvariant.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/qvarlengtharray.h \
@@ -143,26 +157,45 @@ qt_calculator_gui_autogen/timestamp: \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qfontinfo.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qfontmetrics.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qfontvariableaxis.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qguiapplication.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qguiapplication_platform.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qicon.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qimage.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qinputmethod.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qkeysequence.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qpaintdevice.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qpalette.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qpen.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qpixelformat.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qpixmap.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qpolygon.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qregion.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qrgb.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qrgba64.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qtextcursor.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qtextdocument.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qtextformat.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qtextoption.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qtgui-config.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qtguiexports.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qtguiglobal.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qtransform.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qwindowdefs.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui/qwindowdefs_win.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/QApplication \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/QLineEdit \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/QMainWindow \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/QPushButton \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/QVBoxLayout \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/QWidget \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/qabstractbutton.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/qapplication.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/qboxlayout.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/qframe.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/qgridlayout.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/qlayout.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/qlayoutitem.h \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/qlineedit.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/qmainwindow.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/qpushbutton.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets/qsizepolicy.h \
@@ -321,111 +354,6 @@ qt_calculator_gui_autogen/timestamp: \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-relwithdebinfo.cmake \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompiler.cmake.in \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeCXXInformation.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeCommonLanguageInclude.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeCompilerIdDetection.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerSupport.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeDetermineRCCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeDetermineSystem.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeGenericSystem.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeInitializeConfigs.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeLanguageInformation.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeNinjaFindMake.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeParseImplicitIncludeInfo.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeParseImplicitLinkInfo.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeParseLibraryArchitecture.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeRCCompiler.cmake.in \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeRCInformation.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeSystem.cmake.in \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeSystemSpecificInformation.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeSystemSpecificInitialize.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeTestCXXCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeTestCompilerCommon.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CMakeTestRCCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CheckCXXCompilerFlag.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CheckCXXSourceCompiles.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CheckIncludeFileCXX.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/CheckLibraryExists.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/ADSP-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/Borland-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/Clang-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/Cray-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/CrayClang-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/Diab-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/GHS-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/GNU-CXX-CXXImportStd.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/GNU-CXX.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/GNU-FindBinUtils.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/GNU.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/IAR-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/Intel-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/MSVC-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/OrangeC-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/PGI-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/PathScale-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/Renesas-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/SCO-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/TI-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/TIClang-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/Tasking-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/Watcom-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/FindPackageHandleStandardArgs.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/FindPackageMessage.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/FindThreads.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/FindVulkan.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/GNUInstallDirs.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Internal/CMakeCXXLinkerInformation.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Internal/CMakeCommonLinkerInformation.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Internal/CMakeDetermineLinkerId.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Internal/CMakeInspectCXXLinker.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Internal/CheckCompilerFlag.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Internal/CheckFlagCommonConfig.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Internal/CheckSourceCompiles.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Internal/FeatureTesting.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Platform/Linker/GNU.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Platform/Linker/Windows-CXX.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Platform/Linker/Windows-GNU-CXX.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Platform/Linker/Windows-GNU.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Platform/Windows-Determine-CXX.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Platform/Windows-GNU-CXX-ABI.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Platform/Windows-GNU-CXX.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Platform/Windows-GNU.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Platform/Windows-Initialize.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Platform/Windows-windres.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Platform/Windows.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.2/Modules/Platform/WindowsPaths.cmake \
 	C:/mingw64/include/c++/15.2.0/algorithm \
 	C:/mingw64/include/c++/15.2.0/array \
 	C:/mingw64/include/c++/15.2.0/atomic \
@@ -604,6 +532,44 @@ qt_calculator_gui_autogen/timestamp: \
 	C:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
 	C:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
 	C:/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
+	C:/mingw64/share/cmake-4.1/Modules/CMakeCXXInformation.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/CMakeGenericSystem.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/CMakeRCInformation.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/CheckCXXCompilerFlag.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/CheckCXXSourceCompiles.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/CheckIncludeFileCXX.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/CheckLibraryExists.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Compiler/GNU-CXX.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Compiler/GNU.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/FindPackageMessage.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/FindThreads.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/FindVulkan.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/GNUInstallDirs.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Internal/CheckCompilerFlag.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Internal/CheckFlagCommonConfig.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Platform/Linker/GNU.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-CXX.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU-CXX.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU-CXX-ABI.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU-CXX.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Platform/Windows-GNU.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Platform/Windows-Initialize.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Platform/Windows-windres.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Platform/Windows.cmake \
+	C:/mingw64/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake \
 	C:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
 	C:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
 	C:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
@@ -641,4 +607,4 @@ qt_calculator_gui_autogen/timestamp: \
 	C:/mingw64/x86_64-w64-mingw32/include/time.h \
 	C:/mingw64/x86_64-w64-mingw32/include/vadefs.h \
 	C:/mingw64/x86_64-w64-mingw32/include/wchar.h \
-	C:/Program\ Files/CMake/bin/cmake.exe
+	C:/mingw64/bin/cmake.exe
