@@ -2,7 +2,7 @@
 
 
 
-### PROJECT: Qt Calculator GUI
+# PROJECT: Qt Calculator GUI
 * My first real C++ project (not counting robotics stuff). Built a calculator with a GUI using Qt6 and turned out pretty decent honestly.
 
 ## What it does:
@@ -38,8 +38,7 @@ Developed in CLion and VSCode
 If using VSCode, grab the Qt Extension Pack from the marketplace before opening the project
 
 
-Notes to self
-
+## Notes to self:
 * Buttons are mapped via a QMap<QChar, QList<int>> so adding new ones is easy — just drop in a new entry
 * Expression evaluation is handled by QJSEngine::evaluate() which means it supports pretty much any valid JS math expression
 * Forgot to use Qt signals/slots properly — buttons talk directly to the display widget instead. Would refactor this eventually
