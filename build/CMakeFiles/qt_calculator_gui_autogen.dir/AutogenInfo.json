@@ -268,6 +268,12 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/DevFolder/C++/projects/Qt-Calculator-GUI/include/CalculatorButton.hpp",
+			"MU",
+			"6YEA5652QU/moc_CalculatorButton.cpp",
+			null
+		],
+		[
 			"C:/DevFolder/C++/projects/Qt-Calculator-GUI/include/NumberBarWidget.hpp",
 			"MU",
 			"6YEA5652QU/moc_NumberBarWidget.cpp",
@@ -352,6 +358,11 @@
 	"SETTINGS_FILE" : "C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/qt_calculator_gui_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"C:/DevFolder/C++/projects/Qt-Calculator-GUI/src/CalculatorButton.cpp",
+			"MU",
+			null
+		],
 		[
 			"C:/DevFolder/C++/projects/Qt-Calculator-GUI/src/NumberBarWidget.cpp",
 			"MU",

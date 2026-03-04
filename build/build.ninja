@@ -85,6 +85,15 @@ build CMakeFiles/qt_calculator_gui.dir/src/NumberBarWidget.cpp.obj: CXX_COMPILER
   OBJECT_DIR = CMakeFiles\qt_calculator_gui.dir
   OBJECT_FILE_DIR = CMakeFiles\qt_calculator_gui.dir\src
 
+build CMakeFiles/qt_calculator_gui.dir/src/CalculatorButton.cpp.obj: CXX_COMPILER__qt_calculator_gui_unscanned_Debug C$:/DevFolder/C++/projects/Qt-Calculator-GUI/src/CalculatorButton.cpp || cmake_object_order_depends_target_qt_calculator_gui
+  CONFIG = Debug
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\qt_calculator_gui.dir\src\CalculatorButton.cpp.obj.d
+  FLAGS = -g -std=gnu++17
+  INCLUDES = -IC:/DevFolder/C++/projects/Qt-Calculator-GUI/build/qt_calculator_gui_autogen/include -IC:/DevFolder/C++/projects/Qt-Calculator-GUI/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\qt_calculator_gui.dir
+  OBJECT_FILE_DIR = CMakeFiles\qt_calculator_gui.dir\src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target qt_calculator_gui
@@ -93,7 +102,7 @@ build CMakeFiles/qt_calculator_gui.dir/src/NumberBarWidget.cpp.obj: CXX_COMPILER
 #############################################
 # Link the executable qt_calculator_gui.exe
 
-build qt_calculator_gui.exe: CXX_EXECUTABLE_LINKER__qt_calculator_gui_Debug CMakeFiles/qt_calculator_gui.dir/qt_calculator_gui_autogen/mocs_compilation.cpp.obj CMakeFiles/qt_calculator_gui.dir/src/main.cpp.obj CMakeFiles/qt_calculator_gui.dir/src/mainwindow.cpp.obj CMakeFiles/qt_calculator_gui.dir/src/NumberBarWidget.cpp.obj | C$:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/lib/libQt6Widgets.a C$:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/lib/libQt6Gui.a C$:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/lib/libQt6Core.a || qt_calculator_gui_autogen qt_calculator_gui_autogen_timestamp_deps
+build qt_calculator_gui.exe: CXX_EXECUTABLE_LINKER__qt_calculator_gui_Debug CMakeFiles/qt_calculator_gui.dir/qt_calculator_gui_autogen/mocs_compilation.cpp.obj CMakeFiles/qt_calculator_gui.dir/src/main.cpp.obj CMakeFiles/qt_calculator_gui.dir/src/mainwindow.cpp.obj CMakeFiles/qt_calculator_gui.dir/src/NumberBarWidget.cpp.obj CMakeFiles/qt_calculator_gui.dir/src/CalculatorButton.cpp.obj | C$:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/lib/libQt6Widgets.a C$:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/lib/libQt6Gui.a C$:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/lib/libQt6Core.a || qt_calculator_gui_autogen qt_calculator_gui_autogen_timestamp_deps
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/lib/libQt6Widgets.a  C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/lib/libQt6Gui.a  C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

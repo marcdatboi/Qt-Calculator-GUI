@@ -4,13 +4,17 @@ qt_calculator_gui_autogen/timestamp: \
 	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/4.1.0/CMakeRCCompiler.cmake \
 	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/CMakeFiles/4.1.0/CMakeSystem.cmake \
 	C:/DevFolder/C++/projects/Qt-Calculator-GUI/build/qt_calculator_gui_autogen/moc_predefs.h \
+	C:/DevFolder/C++/projects/Qt-Calculator-GUI/include/CalculatorButton.hpp \
 	C:/DevFolder/C++/projects/Qt-Calculator-GUI/include/NumberBarWidget.hpp \
 	C:/DevFolder/C++/projects/Qt-Calculator-GUI/include/mainwindow.h \
+	C:/DevFolder/C++/projects/Qt-Calculator-GUI/src/CalculatorButton.cpp \
 	C:/DevFolder/C++/projects/Qt-Calculator-GUI/src/NumberBarWidget.cpp \
 	C:/DevFolder/C++/projects/Qt-Calculator-GUI/src/main.cpp \
 	C:/DevFolder/C++/projects/Qt-Calculator-GUI/src/mainwindow.cpp \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/QDebug \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/QList \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/QObject \
+	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/QString \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/q17memory.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/q20functional.h \
 	C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64/include/QtCore/q20iterator.h \

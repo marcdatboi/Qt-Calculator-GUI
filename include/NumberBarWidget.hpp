@@ -8,11 +8,8 @@
 // Imports
 #include <QApplication>
 #include <QWidget>
-#include <QVBoxLayout>
 #include <QLineEdit>
-#include <QPushButton>
-#include <QDebug>
-#include <QList>
+
 
 class NumberBarWidget : public QWidget {
     Q_OBJECT
@@ -23,6 +20,7 @@ class NumberBarWidget : public QWidget {
 
         // Member functions
         QLineEdit* getLineEdit();
+        void calculateEquation();
 
     private:
 

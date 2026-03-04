@@ -13,18 +13,20 @@ set(CMAKE_AUTOUIC ON)
 set(CMAKE_AUTORCC ON)
 
 set(SOURCES
-    src/main.cpp
-    src/mainwindow.cpp
-    src/NumberBarWidget.cpp
+        src/main.cpp
+        src/mainwindow.cpp
+        src/NumberBarWidget.cpp
+        src/CalculatorButton.cpp
 )
 
 set(HEADERS
-    include/mainwindow.h
-    include/NumberBarWidget.hpp
+        include/mainwindow.h
+        include/NumberBarWidget.hpp
+        include/CalculatorButton.hpp
 )
 
 set(CMAKE_PREFIX_PATH "C:/DevFolder/tools/Frameworks/Qt/6.10.2/mingw_64")
-find_package(Qt6 REQUIRED COMPONENTS Widgets Gui Core)
+find_package(Qt6 REQUIRED COMPONENTS Widgets Gui Core Qml)
 
 qt_add_executable(qt_calculator_gui
     ${SOURCES}
@@ -36,5 +38,6 @@ target_link_libraries(qt_calculator_gui PRIVATE
     Qt6::Widgets
     Qt6::Gui
     Qt6::Core
+    Qt6::Qml
 )
 

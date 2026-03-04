@@ -7,6 +7,8 @@
 
 #include <QMainWindow>
 #include <QPushButton>
+#include <QLayout>
+#include "NumberBarWidget.hpp"
 
 class MainWindow : public QMainWindow {
     Q_OBJECT
@@ -14,6 +16,17 @@ class MainWindow : public QMainWindow {
     public:
         MainWindow(QWidget *parent = nullptr);
         ~MainWindow();
+
+    private:
+
+        // Member Functions
+    void initializeButtons
+    (
+        QLayout *universalLayout,
+        QWidget *baseWidget,
+        QGridLayout *layout,
+        NumberBarWidget *numberBarWidget
+    );
 };
 
 #endif // MAINWINDOW_H
