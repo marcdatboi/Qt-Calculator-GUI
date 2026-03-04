@@ -2,10 +2,10 @@
 
 
 
-###PROJECT: Qt Calculator GUI
+### PROJECT: Qt Calculator GUI
 * My first real C++ project (not counting robotics stuff). Built a calculator with a GUI using Qt6 and turned out pretty decent honestly.
 
-##What it does:
+## What it does:
 * A fully functional calculator with a clean dark UI. Supports the usual arithmetic plus a few extras:
 
 1. Basic operators -> addition, subtraction, multiplication, division (+ - * /)
@@ -18,11 +18,11 @@
 
 * The display evaluates expressions using QJSEngine so you can chain operations like (3+4)*2^3 and it just works.
 
-##How to build & run
-###Requirements
+## How to build & run
+### Requirements
 ToolVersionCMake >=3.16 C++17 Qt6.10.2 (Widgets, Gui, Core, Qml) and a Ninja Generator
 
-###Steps
+### Steps
 1. Clone the repo
 bashgit clone https://github.com/marcdatboi/Qt-Calculator-GUI.git
 cd Qt-Calculator-GUI
